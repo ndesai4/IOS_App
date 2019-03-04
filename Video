@@ -1,0 +1,6 @@
+https://youtu.be/OTncx2oADj8
+
+Here is the link to the recorded demo of my app working. It was demonstrated on a simulator through Xcode, the software 
+that I used to create the app in the first place. The coding language that uses is called Swift. When I click the button,
+it displays my name. In the folder of files that I attached to this repository, the only actual file that I had to change was
+the one called ViewController.
